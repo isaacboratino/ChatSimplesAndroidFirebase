@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chat Simples</string>
+    <string name="welcome_msg">Bem vindo!</string>
+    <string name="sign_out">Sair</string>
+    <string name="contacts_permission_rationale">Para acessar informações da conta é necessario logar-se.</string>
+    <string name="invite_menu_label">Convide</string>
+    <string name="invitation_message">Junte-se ao chat</string>
+    <string name="invitation_cta">Chamada a ação</string>
+    <string name="invitation_title">Convite ao chat simples</string>
+    <string name="sign_in">Entrar</string>
+    <string name="sign_up">Cadastre-se</string>
+    <string name="fresh_config">Configuração</string>
+    <string name="cause_crash">Causa do erro</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
